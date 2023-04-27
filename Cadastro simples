@@ -1,0 +1,8 @@
+cupom = str(input('Digite o Valor do seu cupon:'))
+if(cupom == "FUCTURA1"):
+    print("Você Ganhou 15% de desconto")
+if(cupom == "FUCTURA2"):
+    print("Você Ganhou 30% de desconto")
+else:
+    print("Esse cupom é invalido")
+    
